@@ -1,0 +1,11 @@
+{
+  "name": "convert-labs-units",
+  "version": "0.0.4",
+  "description": "Helper to convert specific units returned from labs",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Gotz",
+  "license": "MIT"
+}
