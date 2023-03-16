@@ -1,6 +1,6 @@
 {
   "name": "convert-labs-units",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "Helper to convert specific units returned from labs",
   "main": "lib",
   "scripts": {
